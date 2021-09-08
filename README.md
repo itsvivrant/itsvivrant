@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔍 I’m currently looking for a software engineering role. My interest is in front end and full stack development.
-- 🔭 I worked on [Reflect](https://reflect-in.herokuapp.com/)
+- 🔭 I recetly worked on [Reflect](https://reflect-in.herokuapp.com/)
 - 🌱 I’m currently learning DSA
 - 😄 Pronouns: She/her
 - ⚡ Fun fact: I know lots of movie trivia
