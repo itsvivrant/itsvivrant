@@ -1,8 +1,14 @@
 ### Hi there 👋
+
+- 🔍 I’m currently looking for a software engineering role. My interest is in front end and full stack development.
 - 🔭 I worked on [Reflect](https://reflect-in.herokuapp.com/)
 - 🌱 I’m currently learning DSA
-- 📫 How to reach me: baongocche@gmail.com
-- ⚡ Fun fact: I know lots of movie trivia 
+- 😄 Pronouns: She/her
+- ⚡ Fun fact: I know lots of movie trivia
+
+### My contacts :
+- 📫 My email: baongocche@gmail.com
+- 📫 [LinkedIn](https://www.linkedin.com/in/vivian-ngoc-che-6085a6b5/)
 
 <!--
 **itsvivrant/itsvivrant** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
