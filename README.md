@@ -1,7 +1,8 @@
 ### Hi there 👋
 - 🔭 I worked on [Reflect](https://reflect-in.herokuapp.com/)
 - 🌱 I’m currently learning DSA
-- - 📫 How to reach me: baongocche@gmail.com
+- 📫 How to reach me: baongocche@gmail.com
+- ⚡ Fun fact: I know lots of movie trivia 
 
 <!--
 **itsvivrant/itsvivrant** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
