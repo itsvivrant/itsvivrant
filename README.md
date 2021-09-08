@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🔭 I worked on ![Reflect](https://reflect-in.herokuapp.com/)
+- 🔭 I worked on [Reflect](https://reflect-in.herokuapp.com/)
 - 🌱 I’m currently learning DSA
 - - 📫 How to reach me: baongocche@gmail.com
 
