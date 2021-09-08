@@ -8,7 +8,7 @@
 
 ### My contacts :
 - 📫 My email: baongocche@gmail.com
-- 📫 [LinkedIn](www.linkedin.com/in/vivian-ngoc-che)
+- 📫 [LinkedIn](https://www.linkedin.com/in/vivian-ngoc-che/)
 
 <!--
 **itsvivrant/itsvivrant** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
