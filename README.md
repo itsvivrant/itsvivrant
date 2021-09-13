@@ -6,9 +6,9 @@
 - 😄 Pronouns: She/her
 - ⚡ Fun fact: I know lots of movie trivia
 
-### My contacts :
-- 📫 My email: baongocche@gmail.com
-- 📫 [LinkedIn](https://www.linkedin.com/in/vivian-ngoc-che/)
+### 📫 My contacts :
+- Email: baongocche@gmail.com
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/vivian-ngoc-che/)
 
 <!--
 **itsvivrant/itsvivrant** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
