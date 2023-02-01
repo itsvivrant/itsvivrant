@@ -1,8 +1,6 @@
 ### Hi there 👋
 
-- 🔍 I’m currently looking for a software engineering role. My interest is in front end and full stack development.
-- 🔭 I recently worked on [Reflect](https://reflect-in.herokuapp.com/)
-- 🌱 I’m currently learning DSA
+- I'm a web developer with over 1 year of experience. I challenge myself to learn something new everyday by doing fun small projects, leetcoding, and taking various courses on development. The most recent course I enjoyed is web accessibility development! 
 - 😄 Pronouns: She/her
 - ⚡ Fun fact: I know lots of movie trivia
 
